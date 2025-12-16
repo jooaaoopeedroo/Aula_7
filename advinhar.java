@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class advinhar_nume {
+public class advinhar {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);
